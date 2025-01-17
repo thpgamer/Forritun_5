@@ -1,0 +1,8 @@
+[package]
+name = "Verkefni_1"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand = "0.8.5"
+rant = "4.0.0-alpha.33"
