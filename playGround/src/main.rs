@@ -10,6 +10,5 @@ fn main() {
             let letter = name.chars().nth(i).unwrap();
             println!("{}",letter)
         }
-        
     }
 }
