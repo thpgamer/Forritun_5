@@ -1,0 +1,1 @@
+C:\Users\thord\OneDrive\Desktop\Forritun_5\Verkefni_3\target\debug\Verkefni_3.exe: C:\Users\thord\OneDrive\Desktop\Forritun_5\Verkefni_3\src\flug.rs C:\Users\thord\OneDrive\Desktop\Forritun_5\Verkefni_3\src\flugfel.rs C:\Users\thord\OneDrive\Desktop\Forritun_5\Verkefni_3\src\main.rs
